@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>Janek Toporek</name>
+        <emailAddress>janektoporek@example.com</emailAddress>
+    </sender>
+    <recipient>
+        <name>Cristiano Ronaldo</name>
+        <emailAddress>cr7@example.com</emailAddress>
+    </recipient>
+    <subject>Przypomnienie o treningu</subject>
+    <body>
+        Cristiano, 
+        Prypominam o naszym dzisiejszy treningu,
+        Do zobaczenia,
+        Janek
+    </body>
+</email>

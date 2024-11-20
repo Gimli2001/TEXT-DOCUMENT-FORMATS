@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <srodekTransportu typ="Samochód" paliwo="Benzyna">
+        <marka>Toyota</marka>
+        <model>Corolla</model>
+        <rok>2021</rok>
+        <pojemnoscSilnika jednostka="cm3">1800</pojemnoscSilnika>
+    </srodekTransportu>
+    <srodekTransportu typ="Rower" paliwo="Brak">
+        <marka>Giant</marka>
+        <model>Defy</model>
+        <rok>2022</rok>
+        <waga jednostka="kg">9.5</waga>
+    </srodekTransportu>
+    <srodekTransportu typ="Autobus" paliwo="Diesel">
+        <marka>Mercedes</marka>
+        <model>Sprinter</model>
+        <rok>2019</rok>
+        <pojemnoscLudzi>30</pojemnoscLudzi>
+    </srodekTransportu>
+</transport>

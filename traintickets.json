@@ -1,0 +1,20 @@
+{
+    "numerBiletu": "1234567890",
+    "imieINazwisko": "Jan Toporek",
+    "numerPociagu": "IC 101",
+    "odjazd": {
+        "stacja": "Kraków",
+        "godzina": "2024-11-25 09:30:00",
+        "peron": 5
+    },
+    "przyjazd": {
+        "stacja": "Kielce",
+        "godzina": "2024-11-25 11:15:00"
+    },
+    "cena": {
+        "kwota": 17,50,
+        "waluta": "PLN"
+    },
+    "typBiletu": "Druga Klasa",
+    "czyBiletWObieStrony": false
+}
